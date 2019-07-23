@@ -5,11 +5,13 @@ This repository provides a reference implementation of Snomed2Vec as described i
 Snomed2Vec :Poincare and Random Walk Embeddings of a clinical knowledge base for healthcare analytics.
 
 **Download Snomed2Vec Embeddings**
+
 The medical concept embeddings for Snomed graph as described in paper can be found here:
 https://drive.google.com/drive/folders/1zre60Kd0nmQubgQO4iaf0TtWpVLaEKZO
 
 
 **Citing**
+
 If you found the work useful, please consider citing the following paper:
 @inproceedings{Snomed2Vec-dshealth19,
 Authors = 
