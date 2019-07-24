@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1zre60Kd0nmQubgQO4iaf0TtWpVLaEKZO
 If you found the work useful, please consider citing the following paper:
 @inproceedings{Snomed2Vec-dshealth19,
 Authors = 
-@inproceedings{node2vec-kdd2016,
+@inproceedings{Snomed2Vec-DSHealth2019,
 author = {K Agarwal, T Eftimov, R Addanki, S Choudhury, S Tamang, R Rallo},
  title = {Snomed2Vec :Poincare and Random Walk Embeddings of a clinical knowledge base for healthcare analytics},
  booktitle = {KDD Workshop on Applied Data Science for Healthcare: Bridging the Gap between Data and Knowledge},
