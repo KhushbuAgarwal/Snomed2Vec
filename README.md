@@ -13,8 +13,8 @@ https://drive.google.com/drive/folders/1zre60Kd0nmQubgQO4iaf0TtWpVLaEKZO
 **Citing**
 
 If you found the work useful, please consider citing the following paper:
-@inproceedings{Snomed2Vec-dshealth19,
-Authors = 
+
+ 
 @inproceedings{Snomed2Vec-DSHealth2019,
 author = {K Agarwal, T Eftimov, R Addanki, S Choudhury, S Tamang, R Rallo},
  title = {Snomed2Vec :Poincare and Random Walk Embeddings of a clinical knowledge base for healthcare analytics},
